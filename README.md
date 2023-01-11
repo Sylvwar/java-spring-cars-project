@@ -10,5 +10,4 @@ On Visual Studio Code use **Spring Initializr Java Support** to setup Spring Boo
 
 ### Run the project
 ```
-java -jar .\build\libs\demo-0.0.1-SNAPSHOT.jar
-```
+java -jar .\build\libs\java-spring-cars-project-1.0.jar
